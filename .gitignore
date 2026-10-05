@@ -1,0 +1,3 @@
+#Files to ignore
+*.duckdb
+/data/raw/
